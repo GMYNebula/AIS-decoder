@@ -10,6 +10,6 @@
 
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/GMYNebula/AIS-decoder?style=plastic)
 
-数据解析 AISdecoder.py
+AIS数据解析 AISdecoder.py
 
 支持消息类型1, 2, 3, 4, 5, 18, 19, 21, 24 (support message ID 1, 2, 3, 4, 5, 18, 19, 21, 24)
