@@ -4,13 +4,13 @@
  * @Descripttion: 
  * @version: 
  * @tag: 
- * @LastEditTime: 2022-05-31 20:42:26
+ * @LastEditTime: 2022-05-31 20:48:49
 -->
 # AIS-decoder
 
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/GMYNebula/AIS-decoder?style=plastic)
 
-数据解析 AISdecoder.py
+AIS数据解析 AISdecoder.py
 
 注：python版本需要3.10及以上
 
